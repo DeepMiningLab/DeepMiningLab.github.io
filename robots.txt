@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://deepmininglab.github.io/DeepMiningLab.github.io/sitemap.xml
