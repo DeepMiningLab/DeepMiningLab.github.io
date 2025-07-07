@@ -3,7 +3,7 @@
     <title>DeepMining Lab</title>
     <link href="https://deepmining.ch/feed.xml" rel="self" />
     <link href="https://deepmining.ch" />
-    <updated>2025-07-07T17:34:46+02:00</updated>
+    <updated>2025-07-07T17:49:25+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -45,7 +45,7 @@
 <p><strong>Les "propriétés douteuses" et les failles cachées</strong></p>
 <p>Vitalik a ensuite exposé plusieurs exemples concrets de lacunes actuelles dans l'écosystème, où la décentralisation est proclamée mais rarement atteinte dans la pratique.</p>
 <ol>
-<li><strong>DEXs et applications Layer 2 (L2) :</strong> De nombreux projets se déclarent L2 mais fonctionnent encore avec des "boutons de porte dérobée", sans fenêtres de sortie, ou avec des mécanismes de mise à niveau instantanée incontrôlables. Dans ces cas, malgré l'utilisation de la blockchain, le bénéfice en termes de propriété de l'utilisateur n'est pas meilleur que celui d'un serveur centralisé.</li>
+<li><strong>DEXs et applications Layer 2 (L2) :</strong> De nombreux projets se déclarent L2 mais fonctionnent encore avec des "des portes dérobées", sans possibilités de sortie, ou avec des mécanismes de mise à niveau instantanée incontrôlables. Dans ces cas, malgré l'utilisation de la blockchain, le bénéfice en termes de propriété de l'utilisateur n'est pas meilleur que celui d'un serveur centralisé.</li>
 <li><strong>Interfaces de dApps :</strong> Un contrat intelligent peut être parfaitement audité et formellement vérifié, mais si son interface front-end est vulnérable à un piratage de serveur, l'ensemble du système reste fragile. L'attaquant contournera la "porte en acier renforcé" (le smart contract) pour cibler la "maison de paille" (l'interface utilisateur). Des solutions comme les pages HTML statiques sur IPFS et le versioning sont cruciales.</li>
 <li><strong>Attaques de gouvernance :</strong> Les DAOs basées sur des jetons, bien que théoriquement décentralisées, peuvent conduire à une centralisation de fait, notamment par l'achat de votes qui altère la logique sous-jacente du mécanisme. La véritable décentralisation doit se mesurer aux résultats obtenus, et non seulement aux règles formelles.</li>
 <li><strong>Identité ZK (Zero-Knowledge) :</strong> La confidentialité offerte par les preuves à divulgation nulle de connaissance peut être surestimée. Si un système applique une propriété "une personne, un compte" trop stricte, la coercition pour révéler la clé maîtresse peut annuler tout bénéfice de confidentialité. Les flux de connexion centralisés (type "se connecter avec Google/Farcaster") peuvent créer des points de centralisation où une application peut voir l'état d'autres applications.</li>
