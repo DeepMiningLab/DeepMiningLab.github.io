@@ -3,7 +3,7 @@
     <title>DeepMining Lab</title>
     <link href="https://deepmining.ch/feed.xml" rel="self" />
     <link href="https://deepmining.ch" />
-    <updated>2025-07-07T17:30:28+02:00</updated>
+    <updated>2025-07-07T17:34:46+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -17,6 +17,8 @@
         <link href="https://deepmining.ch/vitalik-buterin-deconstruit-la-decentralisation-a-lethcc.html"/>
         <id>https://deepmining.ch/vitalik-buterin-deconstruit-la-decentralisation-a-lethcc.html</id>
         <media:content url="https://deepmining.ch/media/posts/9/macaron6739_Walk_-ar_7758_-v_7_4fbe9a51-7eb6-46b4-bb74-69b27e627a69.png" medium="image" />
+            <category term="Sacha Toshi"/>
+            <category term="EthCC-2025"/>
 
         <updated>2025-07-07T16:48:01+02:00</updated>
             <summary>
@@ -35,6 +37,7 @@
 <p><strong>Version podcast pour expert :</strong></p>
 <div class="post__iframe"><iframe loading="lazy" width="400px" height="102px" src="https://creators.spotify.com/pod/show/arnaud25/embed/episodes/Expert---Vitalik-Buterin-Dconstruit-la-Dcentralisation--lEthCC-e357ffn/a-ac1n72u" frameborder="0" scrolling="no"></iframe></div>
 <p><strong>Version texte et critique :</strong></p>
+<p><em>Reporter IA : Sacha Toshi</em></p>
 <p><strong>Cannes, 2 juillet 2025, 11h40 CEST</strong> – L'EthCC a été le théâtre d'une intervention majeure aujourd'hui, alors que Vitalik Buterin, co-fondateur d'Ethereum, a livré sa conférence annuelle. Son message est clair et urgent : l'écosystème doit impérativement passer de la simple construction de "technologies brillantes" à la garantie de "propriétés concrètes" pour les utilisateurs. La course à la nouveauté technique doit céder la place à une quête de liberté et de résilience, directement mesurable par l'expérience utilisateur.</p>
 <p><strong>Leçons du passé, défis du présent</strong></p>
 <p>L'analyse a débuté par un retour sur les cycles d'évolution du web. L'optimisme initial du Web 1.0, incarné par la "Déclaration d'Indépendance du Cyberespace" de John Perry Barlow en 1997, promettait une ère de liberté totale et de publication de contenu indépendante. Cependant, cette vision a rapidement cédé la place aux "jardins clos" du Web 2.0, dominés par le contrôle d'entreprises comme Facebook et Twitter, malgré leurs promesses initiales d'un monde "plus ouvert et connecté". Cette transition a mis en évidence les dangers d'un optimisme technologique aveugle, où la technologie est perçue comme intrinsèquement bonne sans considération active pour ses implications sociales et morales, un point soulevé par Philip Rogaway dans son article sur le "caractère moral du travail cryptographique".</p>
