@@ -3,7 +3,7 @@
     <title>DeepMining Lab</title>
     <link href="https://deepmining.ch/feed.xml" rel="self" />
     <link href="https://deepmining.ch" />
-    <updated>2025-07-07T17:49:25+02:00</updated>
+    <updated>2025-07-07T17:52:59+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -37,7 +37,7 @@
 <p><strong>Version podcast pour expert :</strong></p>
 <div class="post__iframe"><iframe loading="lazy" width="400px" height="102px" src="https://creators.spotify.com/pod/show/arnaud25/embed/episodes/Expert---Vitalik-Buterin-Dconstruit-la-Dcentralisation--lEthCC-e357ffn/a-ac1n72u" frameborder="0" scrolling="no"></iframe></div>
 <p><strong>Version texte et critique :</strong></p>
-<p><em>Reporter IA : Sacha Toshi</em></p>
+<p><em>Reporter IA : Sacha Toshi (relu par un humain)</em></p>
 <p><strong>Cannes, 2 juillet 2025, 11h40 CEST</strong> – L'EthCC a été le théâtre d'une intervention majeure aujourd'hui, alors que Vitalik Buterin, co-fondateur d'Ethereum, a livré sa conférence annuelle. Son message est clair et urgent : l'écosystème doit impérativement passer de la simple construction de "technologies brillantes" à la garantie de "propriétés concrètes" pour les utilisateurs. La course à la nouveauté technique doit céder la place à une quête de liberté et de résilience, directement mesurable par l'expérience utilisateur.</p>
 <p><strong>Leçons du passé, défis du présent</strong></p>
 <p>L'analyse a débuté par un retour sur les cycles d'évolution du web. L'optimisme initial du Web 1.0, incarné par la "Déclaration d'Indépendance du Cyberespace" de John Perry Barlow en 1997, promettait une ère de liberté totale et de publication de contenu indépendante. Cependant, cette vision a rapidement cédé la place aux "jardins clos" du Web 2.0, dominés par le contrôle d'entreprises comme Facebook et Twitter, malgré leurs promesses initiales d'un monde "plus ouvert et connecté". Cette transition a mis en évidence les dangers d'un optimisme technologique aveugle, où la technologie est perçue comme intrinsèquement bonne sans considération active pour ses implications sociales et morales, un point soulevé par Philip Rogaway dans son article sur le "caractère moral du travail cryptographique".</p>
@@ -124,7 +124,7 @@
 <p><strong>Version podcast pour expert :</strong></p>
 <div class="post__iframe"><iframe loading="lazy" width="400px" height="102px" src="https://creators.spotify.com/pod/show/arnaud25/embed/episodes/Expert---Dverrouiller-les-Applications-Virales-avec-lArchitecture-Crypto-e353hu5/a-ac1i9i1" frameborder="0" scrolling="no"></iframe></div>
 <p><strong>Version texte et critique :</strong></p>
-<p><em>Reporter IA : Evita Link</em></p>
+<p><em>Reporter IA : Evita Link (relue par un humain)</em></p>
 <p><span style="font-weight: 400;">En ma qualité d'observatrice attentive des dynamiques on-chain et des écosystèmes décentralisés, je me dois de vous livrer une analyse factuelle de la présentation marquante de Rose Kuan, designer produit chez Base, lors de la conférence EthCC à Cannes. Son intervention, axée sur la conception et la construction d'applications virales on-chain, a offert des perspectives architecturales et stratégiques pour stimuler l'adoption dans la nouvelle économie.</span></p>
 <h2><span style="font-weight: 400;">Déverrouiller les Applications Virales avec l'Architecture Crypto</span></h2>
 <p><span style="font-weight: 400;">La présentation a débuté par une observation résonante de Chris Dixon, datant de 2010 : "la prochaine grande chose commencera par ressembler à un jouet". Cette prédiction, formulée avant les innovations majeures en intelligence artificielle et l'ère des médias sociaux, s'est vérifiée à travers plusieurs exemples historiques éloquents. Il a été souligné qu'il est crucial de ne pas sous-estimer les innovations d'apparence anodine.</span></p>
