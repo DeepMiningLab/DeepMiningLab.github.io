@@ -3,12 +3,149 @@
     <title>DeepMining Lab</title>
     <link href="https://deepmining.ch/feed.xml" rel="self" />
     <link href="https://deepmining.ch" />
-    <updated>2025-07-07T17:54:40+02:00</updated>
+    <updated>2025-07-08T11:27:55+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
     <id>https://deepmining.ch</id>
 
+    <entry>
+        <title>Exploration Data Riviera</title>
+        <author>
+            <name>Arnaud Gaudinat</name>
+        </author>
+        <link href="https://deepmining.ch/exploration-data-riviera.html"/>
+        <id>https://deepmining.ch/exploration-data-riviera.html</id>
+
+        <updated>2025-07-08T11:09:10+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Deux reporters IA couvrent l’ETHCC[8] depuis Genève Une expérimentation décalée mais utile du DeepMining Lab (HEG-Genève), soutenue gratuitement par le CAS Blockchain &amp; Finance Article co-rédigé par Evita Link et Sacha Toshi CANNES / GENÈVE – JUILLET 2025 À l’occasion de la 8ᵉ édition de&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>Deux reporters IA couvrent l’ETHCC[8] depuis Genève</h2>
+<h3>Une expérimentation décalée mais utile du DeepMining Lab (HEG-Genève), soutenue gratuitement par le CAS Blockchain &amp; Finance</h3>
+<p><em>Article co-rédigé par Evita Link et Sacha Toshi</em></p>
+<p><strong>CANNES / GENÈVE – JUILLET 2025</strong><br>À l’occasion de la 8ᵉ édition de l’<strong><a href="https://ethcc.io/">Ethereum Community Conference (ETHCC)</a></strong>, qui s’est tenue à <strong>Cannes</strong> du 30 juin au 3 juillet 2025, deux agents IA initiés depuis Genève ont assuré la couverture partielle de l’événement sans jamais quitter leur serveur. Une <strong>expérimentation inédite</strong>, menée par le <strong>DeepMining Lab</strong> de la HEG Genève, avec le soutien du <strong><a href="https://www.hesge.ch/heg/formations/formation-continue/formations-diplomantes/certificate-advanced-studies-cas/blockchain-finance#apercu-de-la-formation">CAS Blockchain &amp; Finance</a></strong>, a démontré qu’il était possible de produire un journalisme Web3 neutre, accessible et qualitatif… à distance.</p>
+<h3>Une couverture dématérialisée, pensée pour le public francophone</h3>
+<p>L’ambition de cette expérimentation, appelée <strong>data riviera</strong> était double :</p>
+<ol>
+<li>
+<p><strong>Explorer les usages concrets de l’IA générative dans le traitement d’événements techniques</strong> à forte densité (conférences, panels, workshops, etc.);</p>
+</li>
+<li>
+<p><strong>Offrir une alternative sobre et inclusive</strong> à la couverture classique, souvent coûteuse et physiquement inaccessible.</p>
+</li>
+</ol>
+<p>Les deux agents IA, <strong>Evita Link</strong> et <strong>Sacha Toshi</strong>, ont été conçu au <strong>DeepMining Lab </strong>de la HEG. Conçus comme des <strong>agents éditoriaux autonomes</strong>, ils traitent les contenus diffusés publiquement par l’ETHCC : flux vidéo, documents de présentation, bases de données, publications secondaires.</p>
+<h3> Des profils IA adaptés à l’analyse</h3>
+<ul>
+<li>
+<p><strong>Evita Link</strong> a assuré la vulgarisation et la narration contextuelle : production de synthèses claires à destination du grand public et des étudiants, avec une attention particulière à la lisibilité.</p>
+</li>
+<li>
+<p><strong>Sacha Toshi</strong> s’est concentré sur les dimensions techniques et critiques : analyse des tendances du secteur (ZK, MEV, L2, AI on-chain), identification des biais ou angles morts.</p>
+</li>
+</ul>
+<p>Les deux agents ont également collaboré sur la vérification des faits, en utilisant des outils comme <strong>NotebookLM </strong>qui évite nombre d'hallucinations en intégrant de multiple ressources. </p>
+<h3>Des contenus ciblés, pour tous niveaux</h3>
+<p>Les résultats concrets de cette expérimentation sont :</p>
+<ul>
+<li>
+<p><strong>Des articles courts ou contrendus de conférence </strong>(en français), chacun articulé autour d’un sujet traité lors d’une session :</p>
+<ul>
+<li>
+<p>Résumé factuel ;</p>
+</li>
+<li>
+<p>Mise en contexte critique ;</p>
+</li>
+<li>
+<p>Sources vérifiées et réutilisables.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Des podcasts courts</strong>, pensés pour un public mobile : épisodes de 5 à 8 minutes, adaptés à une écoute quotidienne, accessibles depuis les plateformes courantes.<br>Bien qu’appréciés pour leur clarté et leur ton posé, quelques erreurs mineures de prononciation — notamment sur l'acronyme "ETHCC" — ont été relevées.</p>
+</li>
+</ul>
+<p>Avec un écoute et une relecture par des humains pour valider la qualité de l'information.</p>
+<h3>Ce que l’expérimentation a mis en évidence</h3>
+<table>
+<thead>
+<tr>
+<th>Force</th>
+<th>Détails</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🧭 <strong>Neutralité</strong></td>
+<td>Aucun contact direct avec les exposants ou sponsors : un "point de vue" strictement analytique et non promotionnel qui va droit à l'essentiel.</td>
+</tr>
+<tr>
+<td>📊 <strong>Adaptabilité</strong></td>
+<td>Les agents peuvent adapter le niveau du contenu selon le profil du lecteur ou de l’auditeur (débutant, confirmé, expert).</td>
+</tr>
+<tr>
+<td>🧠 <strong>Multitâche efficace</strong></td>
+<td>Plusieurs sessions parallèles couvertes sans conflit de planning, grâce à la capacité de dédoublement des IA.</td>
+</tr>
+<tr>
+<td>🌍 <strong>Accessibilité accrue</strong></td>
+<td>L’ensemble des contenus est disponible en français, à destination de la communauté francophone.</td>
+</tr>
+<tr>
+<td>🌱 <strong>Sobriété énergétique</strong></td>
+<td>Aucune émission liée au transport ou à l’hébergement.</td>
+</tr>
+<tr>
+<td><strong>💎 Transparence</strong></td>
+<td>Affichage clair d'un contenu généré par l'IA avec indication des sources documentaires</td>
+</tr>
+</tbody>
+</table>
+<h3>Limites reconnues</h3>
+<table>
+<thead>
+<tr>
+<th>Limite</th>
+<th>Analyse</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🔇 <strong>Pas de présence humaine</strong></td>
+<td>Les IA ne captent ni l’ambiance des couloirs, ni les signaux faibles non verbalisés comme le ferait des vrais journalistes.</td>
+</tr>
+<tr>
+<td>🧠 <strong>Hallucinations possibles</strong></td>
+<td>Bien que peu fréquentes, certaines erreurs d’interprétation demeurent inévitables.</td>
+</tr>
+<tr>
+<td>🔌 <strong>Dépendance à des plateformes externes</strong></td>
+<td>Les contenus sources sont hébergés sur YouTube, X/Twitter ou Arweave – plateformes non souveraines.</td>
+</tr>
+<tr>
+<td>📢 <strong>Perception perfectible</strong></td>
+<td>Quelques imprécisions de ton ou de prononciation peuvent nuire à la fluidité de l’expérience audio.</td>
+</tr>
+<tr>
+<td><strong>🔋 Coût énergétique</strong></td>
+<td>Coût énergétique du calcul des IA génératives.</td>
+</tr>
+</tbody>
+</table>
+<h3>Conclusion</h3>
+<p>Plus qu’un simple exercice technologique, cette couverture à distance semble démontrer que l’IA peut aujourd’hui contribuer à une <strong>diffusion plus ouverte et plus pédagogique</strong> du savoir technique. Elle offre un <strong>nouveau modèle de médiation</strong> dans le Web3 et ailleurs, où la qualité de l’information ne dépend plus du lieu, mais de l’intelligence — humaine et artificielle — mobilisée pour la traiter.</p>
+<blockquote>
+<p><em>« L’innovation n’est pas seulement dans la blockchain, elle est aussi dans la manière dont on en parle. »</em><br>— DeepMining Lab, HEG-Genève</p>
+</blockquote>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Vitalik Buterin Déconstruit la Décentralisation à l&#x27;EthCC</title>
         <author>
@@ -24,14 +161,14 @@
             <summary>
                 <![CDATA[
                         <img src="https://deepmining.ch/media/posts/9/macaron6739_Walk_-ar_7758_-v_7_4fbe9a51-7eb6-46b4-bb74-69b27e627a69.png" alt="" />
-                    Reportage écrit et en version expert et novice en podcast, à l'EthCC 2025 à Canne par deux reporters IA Evita Link et Sacha Toshi sur la présentation de Vitalik Buterin de la fondation Ethereum : "Vitalik's Annual EthCC talk". Version podcast pour novice : Version&hellip;
+                    Reportage écrit et en version expert et novice en podcast, à l'EthCC 2025 à Canne par deux IA reporters IA Evita Link et Sacha Toshi sur la présentation de Vitalik Buterin de la fondation Ethereum : "Vitalik's Annual EthCC talk". Version podcast pour novice :&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://deepmining.ch/media/posts/9/macaron6739_Walk_-ar_7758_-v_7_4fbe9a51-7eb6-46b4-bb74-69b27e627a69.png" class="type:primaryImage" alt="" /></p>
                 <div class="paragraph heading3 ng-star-inserted" data-start-index="1164">
-<p><em>Reportage écrit et en version expert et novice en podcast, à l'EthCC 2025 à Canne par deux reporters IA Evita Link et Sacha Toshi sur la présentation de Vitalik Buterin de la fondation Ethereum : "<a href="https://www.youtube.com/watch?v=zo72TWXrc3Y">Vitalik's Annual EthCC talk</a>". </em></p>
+<p><em>Reportage écrit et en version expert et novice en podcast, à l'EthCC 2025 à Canne par <a href="https://deepmining.ch/exploration-data-riviera.html">deux IA reporters IA Evita Link et Sacha Toshi </a>sur la présentation de Vitalik Buterin de la fondation Ethereum : "<a href="https://www.youtube.com/watch?v=zo72TWXrc3Y">Vitalik's Annual EthCC talk</a>". </em></p>
 <p><strong>Version podcast pour novice :</strong></p>
 <div class="post__iframe"><iframe loading="lazy" width="400px" height="102px" src="https://creators.spotify.com/pod/show/arnaud25/embed/episodes/Novice---Vitalik-Buterin-Dconstruit-la-Dcentralisation--lEthCC-e357f5u/a-ac1n6ls" frameborder="0" scrolling="no"></iframe></div>
 <p><strong>Version podcast pour expert :</strong></p>
@@ -112,13 +249,13 @@
             <summary>
                 <![CDATA[
                         <img src="https://deepmining.ch/media/posts/6/macaron6739_Futuristic_isometric_illustration_at_the_center_a_t_8516a75e-82f4-4225-8813-2a3a2fa68455.png" alt="Image d&#x27;illustration pour l&#x27;article" />
-                    Reportage écrit et en version expert et novice en podcast, à l'EthCC 2025 à Canne par deux reporters IA Evita Link et Sacha Toshi sur la présentation de Rose Kuan designer produit chez Base : "Designing and Building Viral Onchain Apps". Version podcast pour novice&hellip;
+                    Reportage écrit et en version expert et novice en podcast, à l'EthCC 2025 à Canne par deux IA reporters Evita Link et Sacha Toshi sur la présentation de Rose Kuan designer produit chez Base : "Designing and Building Viral Onchain Apps". Version podcast pour novice&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://deepmining.ch/media/posts/6/macaron6739_Futuristic_isometric_illustration_at_the_center_a_t_8516a75e-82f4-4225-8813-2a3a2fa68455.png" class="type:primaryImage" alt="Image d&#x27;illustration pour l&#x27;article" /></p>
-                <p><em>Reportage écrit et en version expert et novice en podcast, à l'EthCC 2025 à Canne par deux reporters IA Evita Link et Sacha Toshi sur la présentation de Rose Kuan designer produit chez Base : "<a href="https://www.youtube.com/watch?v=oblayWThddM">Designing and Building Viral Onchain Apps</a>". </em></p>
+                <p><em>Reportage écrit et en version expert et novice en podcast, à l'EthCC 2025 à Canne par <a href="https://deepmining.ch/exploration-data-riviera.html">deux IA reporters Evita Link et Sacha Toshi</a> sur la présentation de Rose Kuan designer produit chez Base : "<a href="https://www.youtube.com/watch?v=oblayWThddM">Designing and Building Viral Onchain Apps</a>". </em></p>
 <p><strong>Version podcast pour novice :</strong></p>
 <p><span style="font-weight: 400;"><div class="post__iframe"><iframe loading="lazy" width="400px" height="102px" src="https://creators.spotify.com/pod/show/arnaud25/embed/episodes/Novice---Dverrouiller-les-Applications-Virales-avec-lArchitecture-Crypto-e353j05/a-ac1iatq" frameborder="0" scrolling="no"></iframe></div></span></p>
 <p><strong>Version podcast pour expert :</strong></p>
