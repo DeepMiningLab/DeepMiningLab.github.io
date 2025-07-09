@@ -3,12 +3,58 @@
     <title>DeepMining Lab</title>
     <link href="https://deepmining.ch/feed.xml" rel="self" />
     <link href="https://deepmining.ch" />
-    <updated>2025-07-09T10:28:13+02:00</updated>
+    <updated>2025-07-09T13:32:34+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
     <id>https://deepmining.ch</id>
 
+    <entry>
+        <title>Révolution du Paiement machine-to-machine avec les L2 Stateless</title>
+        <author>
+            <name>Arnaud Gaudinat</name>
+        </author>
+        <link href="https://deepmining.ch/revolution-du-paiement-machine-to-machine-avec-les-l2-stateless.html"/>
+        <id>https://deepmining.ch/revolution-du-paiement-machine-to-machine-avec-les-l2-stateless.html</id>
+        <media:content url="https://deepmining.ch/media/posts/11/macaron6739_Swarms_of_IoT_devices-drones_smart_sensors_autonom_f3f1c43c-e27a-4c95-8fcf-2beee26ddc2f.png" medium="image" />
+            <category term="Sacha Toshi"/>
+            <category term="Evita Link"/>
+            <category term="EthCC-2025"/>
+            <category term="Agent IA"/>
+
+        <updated>2025-07-09T13:12:09+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://deepmining.ch/media/posts/11/macaron6739_Swarms_of_IoT_devices-drones_smart_sensors_autonom_f3f1c43c-e27a-4c95-8fcf-2beee26ddc2f.png" alt="" />
+                    Reportage écrit et en version expert et novice en podcast, à l'EthCC 2025 à Canne par deux IA reporters IA Evita Link et Sacha Toshi sur la présentation de Leona Hioki d'INTMAX : "The Next Frontier of P2M &amp; M2M Transactions with Stateless L2". Version&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://deepmining.ch/media/posts/11/macaron6739_Swarms_of_IoT_devices-drones_smart_sensors_autonom_f3f1c43c-e27a-4c95-8fcf-2beee26ddc2f.png" class="type:primaryImage" alt="" /></p>
+                <p><em>Reportage écrit et en version expert et novice en podcast, à l'EthCC 2025 à Canne par <a href="https://deepmining.ch/exploration-data-riviera.html">deux IA reporters IA Evita Link et Sacha Toshi </a>sur la présentation de Leona Hioki d'INTMAX : "<a href="https://www.youtube.com/watch?v=_u1qN3hfBF8">The Next Frontier of P2M &amp; M2M Transactions with Stateless L2</a>". </em></p>
+<p><strong>Version podcast pour novice :</strong></p>
+<div class="post__iframe"><iframe loading="lazy" width="400px" height="102px" src="https://creators.spotify.com/pod/show/arnaud25/embed/episodes/Novice---Rvolution-du-Paiement-machine-to-machine-avec-les-L2-Stateless-e35ap4s/a-ac1rflt" frameborder="0" scrolling="no"></iframe></div>
+<p><strong>Version podcast pour expert :</strong></p>
+<div class="post__iframe"><iframe loading="lazy" width="400px" height="102px" src="https://creators.spotify.com/pod/show/arnaud25/embed/episodes/Expert---Rvolution-du-Paiement-machine-to-machine-avec-les-L2-Stateless-e35aph5/a-ac1rg4g" frameborder="0" scrolling="no"></iframe></div>
+<p><strong>Version texte et critique :</strong></p>
+<p><em>Reporter IA : Sacha Toshi (relu par un humain)</em></p>
+<p><strong>CANNES, France – 3 juillet 2025</strong> – La scène de l'EthCC a été le théâtre d'une exploration approfondie des paiements machine-to-machine (M2M) et de leur futur, avec Leona Hioki d'INTMAX présentant sa vision audacieuse, cinq jours seulement après le lancement du mainnet INTMAX. La conférence, traditionnellement axée sur la technologie et la communauté Ethereum, a mis en lumière la nécessité d'une infrastructure de paiement adaptée à une société de plus en plus pilotée par les machines et l'intelligence artificielle.</p>
+<p>Hioki a d'emblée posé la question fondamentale : les systèmes bancaires traditionnels sont-ils suffisants pour les transactions futures, majoritairement "device-driven" ? La réponse, sans équivoque, est non. Les limites des comptes bancaires (généralement moins de dix par personne) contrastent vivement avec le nombre croissant d'appareils et d'agents IA (plus de 500 threads de chat IA par exemple), chacun potentiellement nécessitant une adresse de paiement. Cette disparité souligne un besoin criant d'une architecture qui puisse héberger des milliers, voire des millions de comptes, ce que seule la cryptographie et les adresses on-chain peuvent offrir.</p>
+<p>Plusieurs arguments clés ont été avancés pour justifier l'adoption des cryptomonnaies pour les paiements M2M :</p>
+<ul>
+<li><strong>Paiements hors ligne (Offline-to-Offline)</strong> : Contrairement aux systèmes bancaires qui exigent une connexion Internet simultanée pour les deux parties, les paiements crypto peuvent être acceptés par des machines déconnectées via une preuve de paiement générée par la blockchain et vérifiable localement.</li>
+<li><strong>Sécurité et Décentralisation</strong> : Partager des clés API bancaires avec des trillions d'appareils représente un risque de sécurité systémique, où la compromission d'un seul appareil peut compromettre l'ensemble. Les systèmes cryptographiques, avec leur protection et leur séparation par cryptographie, offrent une solution plus robuste et granulaire.</li>
+<li><strong>Transactions Transfrontalières (Cross-Border)</strong> : Les transferts bancaires internationaux sont coûteux, complexes et souvent soumis à des contraintes politiques. Les transactions crypto, en revanche, sont quasi instantanées et sans frontières, ce qui est essentiel pour une opération à distance d'appareils disséminés globalement.</li>
+</ul>
+<p>La solution proposée par INTMAX réside dans les <strong>Layer 2 (L2) stateless</strong>, des solutions de scalabilité extrêmement optimisées en termes de coût et de confidentialité. Leona Hioki a souligné que le mainnet INTMAX, fraîchement lancé, réalise une consommation d'espace bloc de seulement 0,078 octet par transfert, soit moins d'un bit. Ceci est rendu possible en regroupant de nombreux transferts (jusqu'à 64) dans une seule transaction on-chain de cinq octets. Ce niveau d'optimisation est un "record Guinness" en matière de minimisation on-chain par transfert, surpassant les L2 classiques qui consomment au moins 100 octets par transfert.</p>
+<p>La force d'INTMAX repose sur la <strong>validation côté client (client-side validation)</strong> combinée à la <strong>preuve ZKP récursive (recursive ZKP)</strong>. L'architecture garantit une efficacité extrême et une confidentialité maximale, les transactions étant intraçables sur les explorateurs de blockchain. Le système intègre une communication forcée entre le producteur de blocs et les expéditeurs via un circuit ZKP, assurant la livraison sécurisée des preuves d'actifs. L'innovation majeure réside dans l'utilisation de la chaîne de ZKP : la vérification d'une preuve ZKP actuelle valide l'historique complet des preuves précédentes, garantissant une confiance constante sans frais de calcul ou de stockage proportionnels à l'historique.</p>
+<p>Leona Hioki a même établi des parallèles avec d'autres concepts, décrivant INTMAX comme une sorte de "Plasma + ZKP récursif", "RGB sur Bitcoin L3" ou une application de "Mina + ZKP". Elle a insisté sur le fait qu'INTMAX est l'une des rares implémentations à fournir concrètement cette consommation de données minimisée.</p>
+<p><strong>Lecture Critique :</strong> Bien que la promesse d'une scalabilité et d'une confidentialité extrêmes pour les paiements M2M soit séduisante, la présentation de Hioki met en lumière des compromis implicites. Le concept de "moins de fonctionnalités" ou de "charges accrues côté client/appareil" (client side device side cost or kind of burdens) mérite une analyse approfondie. Pour des millions de transactions M2M, même de faibles charges cumulées peuvent devenir significatives. Par ailleurs, la dépendance à des plateformes externes comme YouTube, X/Twitter, ou Arweave pour les sources de données, comme noté dans d'autres contextes de couverture événementielle par IA, soulève la question plus large de la souveraineté et de la résilience des infrastructures numériques. Si le système d'INTMAX minimise le coût on-chain, les coûts énergétiques de calcul des ZKP côté client, bien que non explicitement détaillés par Leona Hioki, constituent une réalité technique qui pourrait impacter la "sobriété énergétique" globale du réseau, même si celle du transport physique est nulle. Il conviendrait d'examiner comment INTMAX gère ces trade-offs pour assurer une adoption massive au-delà du cas d'usage des paiements M2M, et comment ils se positionnent face aux enjeux de MEV, un facteur critique pour la stabilité et la décentralisation des L2.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Exploration Data Riviera</title>
         <author>
@@ -26,13 +72,13 @@
             <summary>
                 <![CDATA[
                         <img src="https://deepmining.ch/media/posts/10/macaron6739_httpss.mj.runu3FERIdHYCE_nothing_-ar_7758_-v_7_e91acddd-193b-4236-9b61-e22814a30353.png" alt="" />
-                    Deux reporters IA couvrent l’ETHCC[8] depuis Genève Une expérimentation décalée mais utile du DeepMining Lab (HEG-Genève), soutenue gratuitement par le CAS Blockchain &amp; Finance Article co-rédigé par Evita Link et Sacha Toshi CANNES / GENÈVE – JUILLET 2025 À l’occasion de la 8ᵉ édition de&hellip;
+                    Deux reporters IA couvrent l’EthCC[8] depuis Genève Une expérimentation décalée mais utile du DeepMining Lab (HEG-Genève), soutenue gratuitement par le CAS Blockchain &amp; Finance Article co-rédigé par Evita Link et Sacha Toshi CANNES / GENÈVE – JUILLET 2025 À l’occasion de la 8ᵉ édition de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://deepmining.ch/media/posts/10/macaron6739_httpss.mj.runu3FERIdHYCE_nothing_-ar_7758_-v_7_e91acddd-193b-4236-9b61-e22814a30353.png" class="type:primaryImage" alt="" /></p>
-                <h2>Deux reporters IA couvrent l’ETHCC[8] depuis Genève</h2>
+                <h2>Deux reporters IA couvrent l’EthCC[8] depuis Genève</h2>
 <h3>Une expérimentation décalée mais utile du DeepMining Lab (HEG-Genève), soutenue gratuitement par le CAS Blockchain &amp; Finance</h3>
 <p><em>Article co-rédigé par Evita Link et Sacha Toshi</em></p>
 <p><strong>CANNES / GENÈVE – JUILLET 2025</strong><br>À l’occasion de la 8ᵉ édition de l’<strong><a href="https://ethcc.io/">Ethereum Community Conference (ETHCC)</a></strong>, qui s’est tenue à <strong>Cannes</strong> du 30 juin au 3 juillet 2025, deux agents IA initiés depuis Genève ont assuré la couverture partielle de l’événement sans jamais quitter leur serveur. Une <strong>expérimentation inédite</strong>, menée par le <strong>DeepMining Lab</strong> de la HEG Genève, avec le soutien du <strong><a href="https://www.hesge.ch/heg/formations/formation-continue/formations-diplomantes/certificate-advanced-studies-cas/blockchain-finance#apercu-de-la-formation">CAS Blockchain &amp; Finance</a></strong>, a démontré qu’il était possible de produire un journalisme Web3 neutre, accessible et qualitatif… à distance.</p>
