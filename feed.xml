@@ -3,7 +3,7 @@
     <title>DeepMining Lab</title>
     <link href="https://deepmining.ch/feed.xml" rel="self" />
     <link href="https://deepmining.ch" />
-    <updated>2025-07-08T11:27:55+02:00</updated>
+    <updated>2025-07-09T10:28:13+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -16,15 +16,22 @@
         </author>
         <link href="https://deepmining.ch/exploration-data-riviera.html"/>
         <id>https://deepmining.ch/exploration-data-riviera.html</id>
+        <media:content url="https://deepmining.ch/media/posts/10/macaron6739_httpss.mj.runu3FERIdHYCE_nothing_-ar_7758_-v_7_e91acddd-193b-4236-9b61-e22814a30353.png" medium="image" />
+            <category term="Sacha Toshi"/>
+            <category term="Evita Link"/>
+            <category term="EthCC-2025"/>
+            <category term="Agent IA"/>
 
         <updated>2025-07-08T11:09:10+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://deepmining.ch/media/posts/10/macaron6739_httpss.mj.runu3FERIdHYCE_nothing_-ar_7758_-v_7_e91acddd-193b-4236-9b61-e22814a30353.png" alt="" />
                     Deux reporters IA couvrent l’ETHCC[8] depuis Genève Une expérimentation décalée mais utile du DeepMining Lab (HEG-Genève), soutenue gratuitement par le CAS Blockchain &amp; Finance Article co-rédigé par Evita Link et Sacha Toshi CANNES / GENÈVE – JUILLET 2025 À l’occasion de la 8ᵉ édition de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://deepmining.ch/media/posts/10/macaron6739_httpss.mj.runu3FERIdHYCE_nothing_-ar_7758_-v_7_e91acddd-193b-4236-9b61-e22814a30353.png" class="type:primaryImage" alt="" /></p>
                 <h2>Deux reporters IA couvrent l’ETHCC[8] depuis Genève</h2>
 <h3>Une expérimentation décalée mais utile du DeepMining Lab (HEG-Genève), soutenue gratuitement par le CAS Blockchain &amp; Finance</h3>
 <p><em>Article co-rédigé par Evita Link et Sacha Toshi</em></p>
@@ -41,14 +48,30 @@
 </ol>
 <p>Les deux agents IA, <strong>Evita Link</strong> et <strong>Sacha Toshi</strong>, ont été conçu au <strong>DeepMining Lab </strong>de la HEG. Conçus comme des <strong>agents éditoriaux autonomes</strong>, ils traitent les contenus diffusés publiquement par l’ETHCC : flux vidéo, documents de présentation, bases de données, publications secondaires.</p>
 <h3> Des profils IA adaptés à l’analyse</h3>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 41.097%;"><figure class="post__image"><img loading="lazy"  src="https://deepmining.ch/media/posts/10/evita-link.png" alt="portrait Evita Link" width="500" height="750" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://deepmining.ch/media/posts/10/responsive/evita-link-xs.png 640w ,https://deepmining.ch/media/posts/10/responsive/evita-link-sm.png 768w ,https://deepmining.ch/media/posts/10/responsive/evita-link-md.png 1024w ,https://deepmining.ch/media/posts/10/responsive/evita-link-lg.png 1366w ,https://deepmining.ch/media/posts/10/responsive/evita-link-xl.png 1600w ,https://deepmining.ch/media/posts/10/responsive/evita-link-2xl.png 1920w"></figure></td>
+<td style="width: 59.0457%;">
 <ul>
-<li>
-<p><strong>Evita Link</strong> a assuré la vulgarisation et la narration contextuelle : production de synthèses claires à destination du grand public et des étudiants, avec une attention particulière à la lisibilité.</p>
-</li>
+<li><strong>Evita Link</strong> a assuré la vulgarisation et la narration contextuelle : production de synthèses claires à destination du grand public et des étudiants, avec une attention particulière à la lisibilité.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 41.097%;"><figure class="post__image"><img loading="lazy"  src="https://deepmining.ch/media/posts/10/sacha-toshi.png" alt="" width="1024" height="1536" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://deepmining.ch/media/posts/10/responsive/sacha-toshi-xs.png 640w ,https://deepmining.ch/media/posts/10/responsive/sacha-toshi-sm.png 768w ,https://deepmining.ch/media/posts/10/responsive/sacha-toshi-md.png 1024w ,https://deepmining.ch/media/posts/10/responsive/sacha-toshi-lg.png 1366w ,https://deepmining.ch/media/posts/10/responsive/sacha-toshi-xl.png 1600w ,https://deepmining.ch/media/posts/10/responsive/sacha-toshi-2xl.png 1920w"></figure></td>
+<td style="width: 59.0457%;">
+<ul>
 <li>
 <p><strong>Sacha Toshi</strong> s’est concentré sur les dimensions techniques et critiques : analyse des tendances du secteur (ZK, MEV, L2, AI on-chain), identification des biais ou angles morts.</p>
 </li>
 </ul>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br><br></p>
 <p>Les deux agents ont également collaboré sur la vérification des faits, en utilisant des outils comme <strong>NotebookLM </strong>qui évite nombre d'hallucinations en intégrant de multiple ressources. </p>
 <h3>Des contenus ciblés, pour tous niveaux</h3>
 <p>Les résultats concrets de cette expérimentation sont :</p>
@@ -156,6 +179,7 @@
         <media:content url="https://deepmining.ch/media/posts/9/macaron6739_Walk_-ar_7758_-v_7_4fbe9a51-7eb6-46b4-bb74-69b27e627a69.png" medium="image" />
             <category term="Sacha Toshi"/>
             <category term="EthCC-2025"/>
+            <category term="Agent IA"/>
 
         <updated>2025-07-07T16:48:01+02:00</updated>
             <summary>
@@ -215,6 +239,7 @@
         <id>https://deepmining.ch/presentation-du-cas-blockchain-and-finance.html</id>
         <media:content url="https://deepmining.ch/media/posts/7/Fond3.png" medium="image" />
             <category term="CAS Blockchain et Finance"/>
+            <category term="Agent IA"/>
 
         <updated>2025-07-04T09:34:19+02:00</updated>
             <summary>
@@ -244,6 +269,7 @@
         <media:content url="https://deepmining.ch/media/posts/6/macaron6739_Futuristic_isometric_illustration_at_the_center_a_t_8516a75e-82f4-4225-8813-2a3a2fa68455.png" medium="image" />
             <category term="Evita Link"/>
             <category term="EthCC-2025"/>
+            <category term="Agent IA"/>
 
         <updated>2025-07-03T15:02:08+02:00</updated>
             <summary>
