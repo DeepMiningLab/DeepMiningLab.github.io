@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>DeepMining Lab</title>
-    <link href="https://deepmining.ch/feed.xml" rel="self" />
-    <link href="https://deepmining.ch" />
-    <updated>2025-07-09T19:53:23+02:00</updated>
+    <link href="https://onchainfinity.github.io/feed.xml" rel="self" />
+    <link href="https://onchainfinity.github.io" />
+    <updated>2025-07-10T09:19:38+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
-    <id>https://deepmining.ch</id>
+    <id>https://onchainfinity.github.io</id>
 
     <entry>
         <title>La Tokenisation du Monde Réel : Un Impératif pour la Croissance</title>
         <author>
             <name>Arnaud Gaudinat</name>
         </author>
-        <link href="https://deepmining.ch/la-tokenisation-du-monde-reel-un-imperatif-pour-la-croissance.html"/>
-        <id>https://deepmining.ch/la-tokenisation-du-monde-reel-un-imperatif-pour-la-croissance.html</id>
-        <media:content url="https://deepmining.ch/media/posts/14/macaron6739_Monumental_steel_pipelines_marked_Pension_Funds_Fam_e10b66bb-f14d-44e6-b1c3-5a7defde4872.png" medium="image" />
+        <link href="https://onchainfinity.github.io/la-tokenisation-du-monde-reel-un-imperatif-pour-la-croissance.html"/>
+        <id>https://onchainfinity.github.io/la-tokenisation-du-monde-reel-un-imperatif-pour-la-croissance.html</id>
+        <media:content url="https://onchainfinity.github.io/media/posts/14/macaron6739_Monumental_steel_pipelines_marked_Pension_Funds_Fam_e10b66bb-f14d-44e6-b1c3-5a7defde4872.png" medium="image" />
             <category term="Sacha Toshi"/>
             <category term="EthCC-2025"/>
             <category term="Articles"/>
@@ -25,14 +25,14 @@
         <updated>2025-07-09T15:48:25+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://deepmining.ch/media/posts/14/macaron6739_Monumental_steel_pipelines_marked_Pension_Funds_Fam_e10b66bb-f14d-44e6-b1c3-5a7defde4872.png" alt="" />
-                    Reportage écrit et en podcast pour novice et expert, à l'EthCC 2025 à Canne par deux IA reporters IA Evita Link et Sacha Toshi sur la présentation de Sergey Nazarov&hellip;
+                        <img src="https://onchainfinity.github.io/media/posts/14/macaron6739_Monumental_steel_pipelines_marked_Pension_Funds_Fam_e10b66bb-f14d-44e6-b1c3-5a7defde4872.png" alt="" />
+                    Reportage écrit et en podcast pour novice et expert, à l'EthCC 2025 à Canne par deux IA reporters Evita Link et Sacha Toshi sur la présentation de Sergey Nazarov de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://deepmining.ch/media/posts/14/macaron6739_Monumental_steel_pipelines_marked_Pension_Funds_Fam_e10b66bb-f14d-44e6-b1c3-5a7defde4872.png" class="type:primaryImage" alt="" /></p>
-                <p><em>Reportage écrit et en podcast pour novice et expert, à l'<a href="https://ethcc.io/">EthCC 2025 </a>à Canne par <a href="https://deepmining.ch/exploration-data-riviera.html">deux IA reporters IA Evita Link et Sacha Toshi </a>sur la présentation de <strong>Sergey Nazarov </strong>de ChainLink : "<strong><a href="https://www.youtube.com/watch?v=aaEFOd69_xk">Accelerating DeFi Innovation</a></strong>". </em></p>
+                    <p><img src="https://onchainfinity.github.io/media/posts/14/macaron6739_Monumental_steel_pipelines_marked_Pension_Funds_Fam_e10b66bb-f14d-44e6-b1c3-5a7defde4872.png" class="type:primaryImage" alt="" /></p>
+                <p><em>Reportage écrit et en podcast pour novice et expert, à l'<a href="https://ethcc.io/">EthCC 2025 </a>à Canne par <a href="https://onchainfinity.github.io/exploration-data-riviera.html">deux IA reporters Evita Link et Sacha Toshi </a>sur la présentation de <strong>Sergey Nazarov </strong>de ChainLink : "<strong><a href="https://www.youtube.com/watch?v=aaEFOd69_xk">Accelerating DeFi Innovation</a></strong>". </em></p>
 <p><strong>Version podcast pour novice :</strong></p>
 <div class="post__iframe"><iframe loading="lazy" width="400px" height="102px" src="https://creators.spotify.com/pod/show/arnaud25/embed/episodes/Novice---La-Tokenisation-du-Monde-Rel--Un-Impratif-pour-la-Croissance-e35b0v7/a-ac1rpi4" frameborder="0" scrolling="no"></iframe></div>
 <p><strong>Version podcast pour expert :</strong></p>
@@ -74,9 +74,9 @@
         <author>
             <name>Arnaud Gaudinat</name>
         </author>
-        <link href="https://deepmining.ch/vers-une-ere-agentique.html"/>
-        <id>https://deepmining.ch/vers-une-ere-agentique.html</id>
-        <media:content url="https://deepmining.ch/media/posts/13/macaron6739_Two_autonomous_on-chain_agents_visualised_as_elegan_217826c4-d681-4b7a-91a7-2655a6be2bb9.png" medium="image" />
+        <link href="https://onchainfinity.github.io/vers-une-ere-agentique.html"/>
+        <id>https://onchainfinity.github.io/vers-une-ere-agentique.html</id>
+        <media:content url="https://onchainfinity.github.io/media/posts/13/macaron6739_Two_autonomous_on-chain_agents_visualised_as_elegan_217826c4-d681-4b7a-91a7-2655a6be2bb9.png" medium="image" />
             <category term="Evita Link"/>
             <category term="EthCC-2025"/>
             <category term="Articles"/>
@@ -85,14 +85,14 @@
         <updated>2025-07-09T15:00:17+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://deepmining.ch/media/posts/13/macaron6739_Two_autonomous_on-chain_agents_visualised_as_elegan_217826c4-d681-4b7a-91a7-2655a6be2bb9.png" alt="" />
-                    Reportage écrit et en podcast pour novice et expert, à l'EthCC 2025 à Canne par deux IA reporters IA Evita Link et Sacha Toshi sur la présentation de Audrey Taylor&hellip;
+                        <img src="https://onchainfinity.github.io/media/posts/13/macaron6739_Two_autonomous_on-chain_agents_visualised_as_elegan_217826c4-d681-4b7a-91a7-2655a6be2bb9.png" alt="" />
+                    Reportage écrit et en podcast pour novice et expert, à l'EthCC 2025 à Canne par deux IA reporters Evita Link et Sacha Toshi sur la présentation de Audrey Taylor de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://deepmining.ch/media/posts/13/macaron6739_Two_autonomous_on-chain_agents_visualised_as_elegan_217826c4-d681-4b7a-91a7-2655a6be2bb9.png" class="type:primaryImage" alt="" /></p>
-                <p><em>Reportage écrit et en podcast pour novice et expert, à l'<a href="https://ethcc.io/">EthCC 2025 </a>à Canne par <a href="https://deepmining.ch/exploration-data-riviera.html">deux IA reporters IA Evita Link et Sacha Toshi </a>sur la présentation de <strong>Audrey Taylor </strong>de Nanupanda Labs : "<strong><a href="https://www.youtube.com/watch?v=J21HFVBQARA">Are Ai Agents the new API</a></strong>". </em></p>
+                    <p><img src="https://onchainfinity.github.io/media/posts/13/macaron6739_Two_autonomous_on-chain_agents_visualised_as_elegan_217826c4-d681-4b7a-91a7-2655a6be2bb9.png" class="type:primaryImage" alt="" /></p>
+                <p><em>Reportage écrit et en podcast pour novice et expert, à l'<a href="https://ethcc.io/">EthCC 2025 </a>à Canne par <a href="https://onchainfinity.github.io/exploration-data-riviera.html">deux IA reporters Evita Link et Sacha Toshi </a>sur la présentation de <strong>Audrey Taylor </strong>de Nanupanda Labs : "<strong><a href="https://www.youtube.com/watch?v=J21HFVBQARA">Are Ai Agents the new API</a></strong>". </em></p>
 <p><strong>Version podcast pour novice :</strong></p>
 <div class="post__iframe"><iframe loading="lazy" width="400px" height="102px" src="https://creators.spotify.com/pod/show/arnaud25/embed/episodes/Novice---Vers-une-re-Agentique-e35b0or/a-ac1rp9r" frameborder="0" scrolling="no"></iframe></div>
 <p><strong>Version podcast pour expert :</strong></p>
@@ -121,9 +121,9 @@
         <author>
             <name>Arnaud Gaudinat</name>
         </author>
-        <link href="https://deepmining.ch/la-vision-fondamentale-dethereum-et-ses-priorites-strategiques.html"/>
-        <id>https://deepmining.ch/la-vision-fondamentale-dethereum-et-ses-priorites-strategiques.html</id>
-        <media:content url="https://deepmining.ch/media/posts/12/macaron6739_A_diverse_crowd_of_people_on_a_luminous_globe_made__c4d103a4-8caa-4368-bb75-30ae6e950ccd.png" medium="image" />
+        <link href="https://onchainfinity.github.io/la-vision-fondamentale-dethereum-et-ses-priorites-strategiques.html"/>
+        <id>https://onchainfinity.github.io/la-vision-fondamentale-dethereum-et-ses-priorites-strategiques.html</id>
+        <media:content url="https://onchainfinity.github.io/media/posts/12/macaron6739_A_diverse_crowd_of_people_on_a_luminous_globe_made__c4d103a4-8caa-4368-bb75-30ae6e950ccd.png" medium="image" />
             <category term="Evita Link"/>
             <category term="EthCC-2025"/>
             <category term="Articles"/>
@@ -132,14 +132,14 @@
         <updated>2025-07-09T13:43:59+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://deepmining.ch/media/posts/12/macaron6739_A_diverse_crowd_of_people_on_a_luminous_globe_made__c4d103a4-8caa-4368-bb75-30ae6e950ccd.png" alt="" />
-                    Reportage écrit et en podcast pour novice et expert, à l'EthCC 2025 à Canne par deux IA reporters IA Evita Link et Sacha Toshi sur la présentation de Tomasz Stanczak&hellip;
+                        <img src="https://onchainfinity.github.io/media/posts/12/macaron6739_A_diverse_crowd_of_people_on_a_luminous_globe_made__c4d103a4-8caa-4368-bb75-30ae6e950ccd.png" alt="" />
+                    Reportage écrit et en podcast pour novice et expert, à l'EthCC 2025 à Canne par deux IA reporters Evita Link et Sacha Toshi sur la présentation de Tomasz Stanczak de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://deepmining.ch/media/posts/12/macaron6739_A_diverse_crowd_of_people_on_a_luminous_globe_made__c4d103a4-8caa-4368-bb75-30ae6e950ccd.png" class="type:primaryImage" alt="" /></p>
-                <p><em>Reportage écrit et en podcast pour novice et expert, à l'<a href="https://ethcc.io/">EthCC 2025</a> à Canne par <a href="https://deepmining.ch/exploration-data-riviera.html">deux IA reporters IA Evita Link et Sacha Toshi </a>sur la présentation de <strong>Tomasz Stanczak</strong> de la Ethereum Foundation : "<a href="https://www.youtube.com/watch?v=dreIjLi2hXk"><strong>Ethereum Vision</strong></a>". </em></p>
+                    <p><img src="https://onchainfinity.github.io/media/posts/12/macaron6739_A_diverse_crowd_of_people_on_a_luminous_globe_made__c4d103a4-8caa-4368-bb75-30ae6e950ccd.png" class="type:primaryImage" alt="" /></p>
+                <p><em>Reportage écrit et en podcast pour novice et expert, à l'<a href="https://ethcc.io/">EthCC 2025</a> à Canne par <a href="https://onchainfinity.github.io/exploration-data-riviera.html">deux IA reporters Evita Link et Sacha Toshi </a>sur la présentation de <strong>Tomasz Stanczak</strong> de la Ethereum Foundation : "<a href="https://www.youtube.com/watch?v=dreIjLi2hXk"><strong>Ethereum Vision</strong></a>". </em></p>
 <p><strong>Version podcast pour novice :</strong></p>
 <div class="post__iframe"><iframe loading="lazy" width="400px" height="102px" src="https://creators.spotify.com/pod/show/arnaud25/embed/episodes/Novice---La-Vision-Fondamentale-dEthereum-et-ses-Priorits-Stratgiques-e35aror/a-ac1rivj" frameborder="0" scrolling="no"></iframe></div>
 <p><strong>Version podcast pour expert :</strong></p>
@@ -180,9 +180,9 @@
         <author>
             <name>Arnaud Gaudinat</name>
         </author>
-        <link href="https://deepmining.ch/revolution-du-paiement-machine-to-machine-avec-les-l2-stateless.html"/>
-        <id>https://deepmining.ch/revolution-du-paiement-machine-to-machine-avec-les-l2-stateless.html</id>
-        <media:content url="https://deepmining.ch/media/posts/11/macaron6739_Swarms_of_IoT_devices-drones_smart_sensors_autonom_f3f1c43c-e27a-4c95-8fcf-2beee26ddc2f.png" medium="image" />
+        <link href="https://onchainfinity.github.io/revolution-du-paiement-machine-to-machine-avec-les-l2-stateless.html"/>
+        <id>https://onchainfinity.github.io/revolution-du-paiement-machine-to-machine-avec-les-l2-stateless.html</id>
+        <media:content url="https://onchainfinity.github.io/media/posts/11/macaron6739_Swarms_of_IoT_devices-drones_smart_sensors_autonom_f3f1c43c-e27a-4c95-8fcf-2beee26ddc2f.png" medium="image" />
             <category term="Sacha Toshi"/>
             <category term="Evita Link"/>
             <category term="EthCC-2025"/>
@@ -192,14 +192,14 @@
         <updated>2025-07-09T13:12:09+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://deepmining.ch/media/posts/11/macaron6739_Swarms_of_IoT_devices-drones_smart_sensors_autonom_f3f1c43c-e27a-4c95-8fcf-2beee26ddc2f.png" alt="" />
-                    Reportage écrit et en podcast pour novice et expert, à l'EthCC 2025 à Canne par deux IA reporters IA Evita Link et Sacha Toshi sur la présentation de Leona Hioki&hellip;
+                        <img src="https://onchainfinity.github.io/media/posts/11/macaron6739_Swarms_of_IoT_devices-drones_smart_sensors_autonom_f3f1c43c-e27a-4c95-8fcf-2beee26ddc2f.png" alt="" />
+                    Reportage écrit et en podcast pour novice et expert, à l'EthCC 2025 à Canne par deux IA reporters Evita Link et Sacha Toshi sur la présentation de Leona Hioki d'INTMAX&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://deepmining.ch/media/posts/11/macaron6739_Swarms_of_IoT_devices-drones_smart_sensors_autonom_f3f1c43c-e27a-4c95-8fcf-2beee26ddc2f.png" class="type:primaryImage" alt="" /></p>
-                <p><em>Reportage écrit et en podcast pour novice et expert, à l'<a href="https://ethcc.io/">EthCC 2025</a> à Canne par <a href="https://deepmining.ch/exploration-data-riviera.html">deux IA reporters IA Evita Link et Sacha Toshi </a>sur la présentation de <strong>Leona Hioki</strong> d'INTMAX : "<strong><a href="https://www.youtube.com/watch?v=_u1qN3hfBF8">The Next Frontier of P2M &amp; M2M Transactions with Stateless L2</a></strong>". </em></p>
+                    <p><img src="https://onchainfinity.github.io/media/posts/11/macaron6739_Swarms_of_IoT_devices-drones_smart_sensors_autonom_f3f1c43c-e27a-4c95-8fcf-2beee26ddc2f.png" class="type:primaryImage" alt="" /></p>
+                <p><em>Reportage écrit et en podcast pour novice et expert, à l'<a href="https://ethcc.io/">EthCC 2025</a> à Canne par <a href="https://onchainfinity.github.io/exploration-data-riviera.html">deux IA reporters Evita Link et Sacha Toshi </a>sur la présentation de <strong>Leona Hioki</strong> d'INTMAX : "<strong><a href="https://www.youtube.com/watch?v=_u1qN3hfBF8">The Next Frontier of P2M &amp; M2M Transactions with Stateless L2</a></strong>". </em></p>
 <p><strong>Version podcast pour novice :</strong></p>
 <div class="post__iframe"><iframe loading="lazy" width="400px" height="102px" src="https://creators.spotify.com/pod/show/arnaud25/embed/episodes/Novice---Rvolution-du-Paiement-machine-to-machine-avec-les-L2-Stateless-e35ap4s/a-ac1rflt" frameborder="0" scrolling="no"></iframe></div>
 <p><strong>Version podcast pour expert :</strong></p>
@@ -227,9 +227,9 @@
         <author>
             <name>Arnaud Gaudinat</name>
         </author>
-        <link href="https://deepmining.ch/exploration-data-riviera.html"/>
-        <id>https://deepmining.ch/exploration-data-riviera.html</id>
-        <media:content url="https://deepmining.ch/media/posts/10/macaron6739_httpss.mj.runu3FERIdHYCE_nothing_-ar_7758_-v_7_e91acddd-193b-4236-9b61-e22814a30353.png" medium="image" />
+        <link href="https://onchainfinity.github.io/exploration-data-riviera.html"/>
+        <id>https://onchainfinity.github.io/exploration-data-riviera.html</id>
+        <media:content url="https://onchainfinity.github.io/media/posts/10/macaron6739_httpss.mj.runu3FERIdHYCE_nothing_-ar_7758_-v_7_e91acddd-193b-4236-9b61-e22814a30353.png" medium="image" />
             <category term="Sacha Toshi"/>
             <category term="Evita Link"/>
             <category term="EthCC-2025"/>
@@ -239,13 +239,13 @@
         <updated>2025-07-08T11:09:10+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://deepmining.ch/media/posts/10/macaron6739_httpss.mj.runu3FERIdHYCE_nothing_-ar_7758_-v_7_e91acddd-193b-4236-9b61-e22814a30353.png" alt="" />
+                        <img src="https://onchainfinity.github.io/media/posts/10/macaron6739_httpss.mj.runu3FERIdHYCE_nothing_-ar_7758_-v_7_e91acddd-193b-4236-9b61-e22814a30353.png" alt="" />
                     Deux IA reporters couvrent l’EthCC[8] depuis Genève Une expérimentation décalée mais utile du DeepMining Lab (HEG-Genève), soutenue gratuitement par le CAS Blockchain &amp; Finance Article co-rédigé par Evita Link et&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://deepmining.ch/media/posts/10/macaron6739_httpss.mj.runu3FERIdHYCE_nothing_-ar_7758_-v_7_e91acddd-193b-4236-9b61-e22814a30353.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://onchainfinity.github.io/media/posts/10/macaron6739_httpss.mj.runu3FERIdHYCE_nothing_-ar_7758_-v_7_e91acddd-193b-4236-9b61-e22814a30353.png" class="type:primaryImage" alt="" /></p>
                 <h2>Deux IA reporters couvrent l’EthCC[8] depuis Genève</h2>
 <h3>Une expérimentation décalée mais utile du DeepMining Lab (HEG-Genève), soutenue gratuitement par le CAS Blockchain &amp; Finance</h3>
 <p><em>Article co-rédigé par Evita Link et Sacha Toshi</em></p>
@@ -265,7 +265,7 @@
 <table class="align-left" style="border-collapse: collapse; width: 100%; border-color: #ffffff;" border="0">
 <tbody>
 <tr>
-<td style="width: 22.8245%;"><figure class="post__image"><img loading="lazy"  src="https://deepmining.ch/media/posts/10/evita-link.png" alt="portrait Evita Link" width="500" height="750" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://deepmining.ch/media/posts/10/responsive/evita-link-xs.png 640w ,https://deepmining.ch/media/posts/10/responsive/evita-link-sm.png 768w ,https://deepmining.ch/media/posts/10/responsive/evita-link-md.png 1024w ,https://deepmining.ch/media/posts/10/responsive/evita-link-lg.png 1366w ,https://deepmining.ch/media/posts/10/responsive/evita-link-xl.png 1600w ,https://deepmining.ch/media/posts/10/responsive/evita-link-2xl.png 1920w"></figure></td>
+<td style="width: 22.8245%;"><figure class="post__image"><img loading="lazy"  src="https://onchainfinity.github.io/media/posts/10/evita-link.png" alt="portrait Evita Link" width="500" height="750" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://onchainfinity.github.io/media/posts/10/responsive/evita-link-xs.png 640w ,https://onchainfinity.github.io/media/posts/10/responsive/evita-link-sm.png 768w ,https://onchainfinity.github.io/media/posts/10/responsive/evita-link-md.png 1024w ,https://onchainfinity.github.io/media/posts/10/responsive/evita-link-lg.png 1366w ,https://onchainfinity.github.io/media/posts/10/responsive/evita-link-xl.png 1600w ,https://onchainfinity.github.io/media/posts/10/responsive/evita-link-2xl.png 1920w"></figure></td>
 <td style="width: 77.1755%;">
 <ul>
 <li><strong>Evita Link</strong> a assuré la vulgarisation et la narration contextuelle : production de synthèses claires à destination du grand public et des étudiants, avec une attention particulière à la lisibilité.</li>
@@ -273,7 +273,7 @@
 </td>
 </tr>
 <tr>
-<td style="width: 22.8245%;"><figure class="post__image"><img loading="lazy"  src="https://deepmining.ch/media/posts/10/sacha-toshi.png" alt="" width="1024" height="1536" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://deepmining.ch/media/posts/10/responsive/sacha-toshi-xs.png 640w ,https://deepmining.ch/media/posts/10/responsive/sacha-toshi-sm.png 768w ,https://deepmining.ch/media/posts/10/responsive/sacha-toshi-md.png 1024w ,https://deepmining.ch/media/posts/10/responsive/sacha-toshi-lg.png 1366w ,https://deepmining.ch/media/posts/10/responsive/sacha-toshi-xl.png 1600w ,https://deepmining.ch/media/posts/10/responsive/sacha-toshi-2xl.png 1920w"></figure></td>
+<td style="width: 22.8245%;"><figure class="post__image"><img loading="lazy"  src="https://onchainfinity.github.io/media/posts/10/sacha-toshi.png" alt="" width="1024" height="1536" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://onchainfinity.github.io/media/posts/10/responsive/sacha-toshi-xs.png 640w ,https://onchainfinity.github.io/media/posts/10/responsive/sacha-toshi-sm.png 768w ,https://onchainfinity.github.io/media/posts/10/responsive/sacha-toshi-md.png 1024w ,https://onchainfinity.github.io/media/posts/10/responsive/sacha-toshi-lg.png 1366w ,https://onchainfinity.github.io/media/posts/10/responsive/sacha-toshi-xl.png 1600w ,https://onchainfinity.github.io/media/posts/10/responsive/sacha-toshi-2xl.png 1920w"></figure></td>
 <td style="width: 77.1755%;">
 <ul>
 <li>
@@ -388,9 +388,9 @@
         <author>
             <name>Arnaud Gaudinat</name>
         </author>
-        <link href="https://deepmining.ch/vitalik-buterin-deconstruit-la-decentralisation-a-lethcc.html"/>
-        <id>https://deepmining.ch/vitalik-buterin-deconstruit-la-decentralisation-a-lethcc.html</id>
-        <media:content url="https://deepmining.ch/media/posts/9/macaron6739_Walk_-ar_7758_-v_7_4fbe9a51-7eb6-46b4-bb74-69b27e627a69.png" medium="image" />
+        <link href="https://onchainfinity.github.io/vitalik-buterin-deconstruit-la-decentralisation-a-lethcc.html"/>
+        <id>https://onchainfinity.github.io/vitalik-buterin-deconstruit-la-decentralisation-a-lethcc.html</id>
+        <media:content url="https://onchainfinity.github.io/media/posts/9/macaron6739_Walk_-ar_7758_-v_7_4fbe9a51-7eb6-46b4-bb74-69b27e627a69.png" medium="image" />
             <category term="Sacha Toshi"/>
             <category term="EthCC-2025"/>
             <category term="Articles"/>
@@ -399,15 +399,15 @@
         <updated>2025-07-07T16:48:01+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://deepmining.ch/media/posts/9/macaron6739_Walk_-ar_7758_-v_7_4fbe9a51-7eb6-46b4-bb74-69b27e627a69.png" alt="" />
-                    Reportage écrit et en podcast pour novice et expert, à l'EthCC 2025 à Canne par deux IA reporters IA Evita Link et Sacha Toshi sur la présentation de Vitalik Buterin&hellip;
+                        <img src="https://onchainfinity.github.io/media/posts/9/macaron6739_Walk_-ar_7758_-v_7_4fbe9a51-7eb6-46b4-bb74-69b27e627a69.png" alt="" />
+                    Reportage écrit et en podcast pour novice et expert, à l'EthCC 2025 à Canne par deux IA reporters Evita Link et Sacha Toshi sur la présentation de Vitalik Buterin de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://deepmining.ch/media/posts/9/macaron6739_Walk_-ar_7758_-v_7_4fbe9a51-7eb6-46b4-bb74-69b27e627a69.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://onchainfinity.github.io/media/posts/9/macaron6739_Walk_-ar_7758_-v_7_4fbe9a51-7eb6-46b4-bb74-69b27e627a69.png" class="type:primaryImage" alt="" /></p>
                 <div class="paragraph heading3 ng-star-inserted" data-start-index="1164">
-<p><em>Reportage écrit et en podcast pour novice et expert, à l'<a href="https://ethcc.io/">EthCC 2025 </a>à Canne par <a href="https://deepmining.ch/exploration-data-riviera.html">deux IA reporters IA Evita Link et Sacha Toshi </a>sur la présentation de <strong>Vitalik Buterin</strong> de la fondation Ethereum : "<strong><a href="https://www.youtube.com/watch?v=zo72TWXrc3Y">Vitalik's Annual EthCC talk</a></strong>". </em></p>
+<p><em>Reportage écrit et en podcast pour novice et expert, à l'<a href="https://ethcc.io/">EthCC 2025 </a>à Canne par <a href="https://onchainfinity.github.io/exploration-data-riviera.html">deux IA reporters Evita Link et Sacha Toshi </a>sur la présentation de <strong>Vitalik Buterin</strong> de la fondation Ethereum : "<strong><a href="https://www.youtube.com/watch?v=zo72TWXrc3Y">Vitalik's Annual EthCC talk</a></strong>". </em></p>
 <p><strong>Version podcast pour novice :</strong></p>
 <div class="post__iframe"><iframe loading="lazy" width="400px" height="102px" src="https://creators.spotify.com/pod/show/arnaud25/embed/episodes/Novice---Vitalik-Buterin-Dconstruit-la-Dcentralisation--lEthCC-e357f5u/a-ac1n6ls" frameborder="0" scrolling="no"></iframe></div>
 <p><strong>Version podcast pour expert :</strong></p>
@@ -450,9 +450,9 @@
         <author>
             <name>Arnaud Gaudinat</name>
         </author>
-        <link href="https://deepmining.ch/presentation-du-cas-blockchain-and-finance.html"/>
-        <id>https://deepmining.ch/presentation-du-cas-blockchain-and-finance.html</id>
-        <media:content url="https://deepmining.ch/media/posts/7/Fond3.png" medium="image" />
+        <link href="https://onchainfinity.github.io/presentation-du-cas-blockchain-and-finance.html"/>
+        <id>https://onchainfinity.github.io/presentation-du-cas-blockchain-and-finance.html</id>
+        <media:content url="https://onchainfinity.github.io/media/posts/7/Fond3.png" medium="image" />
             <category term="CAS Blockchain et Finance"/>
             <category term="Articles"/>
             <category term="Agent IA"/>
@@ -460,13 +460,13 @@
         <updated>2025-07-04T09:34:19+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://deepmining.ch/media/posts/7/Fond3.png" alt="" />
+                        <img src="https://onchainfinity.github.io/media/posts/7/Fond3.png" alt="" />
                     Deux journalistes propulsés par l’IA ont débattu à partir des documents de la séance de présentation du CAS « Blockchain &amp; Finance ». Cet épisode audio a été généré avec&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://deepmining.ch/media/posts/7/Fond3.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://onchainfinity.github.io/media/posts/7/Fond3.png" class="type:primaryImage" alt="" /></p>
                 <p data-start="0" data-end="459">Deux journalistes propulsés par l’IA ont débattu à partir des documents de la séance de présentation du CAS « Blockchain &amp; Finance ». Cet épisode audio a été généré avec NotebookLM, un outil que nous vous recommandons vivement : il permet d’importer une grande variété de sources volumineuses tout en limitant le risque d’hallucination. Pour rappel, un CAS (Certificate of Advanced Studies) est un diplôme de formation continue reconnu en Suisse et en Europe.</p>
 <p data-start="0" data-end="459"> </p>
 <p data-start="461" data-end="548" data-is-last-node="" data-is-only-node="">Ce podcast offre un aperçu riche et qualitatif de cette formation — excellente écoute !</p>
@@ -480,9 +480,9 @@
         <author>
             <name>Arnaud Gaudinat</name>
         </author>
-        <link href="https://deepmining.ch/deverrouiller-les-applications-virales-avec-larchitecture-crypto.html"/>
-        <id>https://deepmining.ch/deverrouiller-les-applications-virales-avec-larchitecture-crypto.html</id>
-        <media:content url="https://deepmining.ch/media/posts/6/macaron6739_Futuristic_isometric_illustration_at_the_center_a_t_8516a75e-82f4-4225-8813-2a3a2fa68455.png" medium="image" />
+        <link href="https://onchainfinity.github.io/deverrouiller-les-applications-virales-avec-larchitecture-crypto.html"/>
+        <id>https://onchainfinity.github.io/deverrouiller-les-applications-virales-avec-larchitecture-crypto.html</id>
+        <media:content url="https://onchainfinity.github.io/media/posts/6/macaron6739_Futuristic_isometric_illustration_at_the_center_a_t_8516a75e-82f4-4225-8813-2a3a2fa68455.png" medium="image" />
             <category term="Evita Link"/>
             <category term="EthCC-2025"/>
             <category term="Articles"/>
@@ -491,14 +491,14 @@
         <updated>2025-07-03T15:02:08+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://deepmining.ch/media/posts/6/macaron6739_Futuristic_isometric_illustration_at_the_center_a_t_8516a75e-82f4-4225-8813-2a3a2fa68455.png" alt="Image d&#x27;illustration pour l&#x27;article" />
+                        <img src="https://onchainfinity.github.io/media/posts/6/macaron6739_Futuristic_isometric_illustration_at_the_center_a_t_8516a75e-82f4-4225-8813-2a3a2fa68455.png" alt="Image d&#x27;illustration pour l&#x27;article" />
                     Reportage écrit et en podcast pour novice et expert, à l'EthCC 2025 à Canne par deux IA reporters Evita Link et Sacha Toshi sur la présentation de Rose Kuan designer&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://deepmining.ch/media/posts/6/macaron6739_Futuristic_isometric_illustration_at_the_center_a_t_8516a75e-82f4-4225-8813-2a3a2fa68455.png" class="type:primaryImage" alt="Image d&#x27;illustration pour l&#x27;article" /></p>
-                <p><em>Reportage écrit et en podcast pour novice et expert, à l'<a href="https://ethcc.io/">EthCC 2025</a> à Canne par <a href="https://deepmining.ch/exploration-data-riviera.html">deux IA reporters Evita Link et Sacha Toshi</a> sur la présentation de <strong>Rose Kuan</strong> designer produit chez Base : "<strong><a href="https://www.youtube.com/watch?v=oblayWThddM">Designing and Building Viral Onchain Apps</a></strong>". </em></p>
+                    <p><img src="https://onchainfinity.github.io/media/posts/6/macaron6739_Futuristic_isometric_illustration_at_the_center_a_t_8516a75e-82f4-4225-8813-2a3a2fa68455.png" class="type:primaryImage" alt="Image d&#x27;illustration pour l&#x27;article" /></p>
+                <p><em>Reportage écrit et en podcast pour novice et expert, à l'<a href="https://ethcc.io/">EthCC 2025</a> à Canne par <a href="https://onchainfinity.github.io/exploration-data-riviera.html">deux IA reporters Evita Link et Sacha Toshi</a> sur la présentation de <strong>Rose Kuan</strong> designer produit chez Base : "<strong><a href="https://www.youtube.com/watch?v=oblayWThddM">Designing and Building Viral Onchain Apps</a></strong>". </em></p>
 <p><strong>Version podcast pour novice :</strong></p>
 <p><span style="font-weight: 400;"><div class="post__iframe"><iframe loading="lazy" width="400px" height="102px" src="https://creators.spotify.com/pod/show/arnaud25/embed/episodes/Novice---Dverrouiller-les-Applications-Virales-avec-lArchitecture-Crypto-e353j05/a-ac1iatq" frameborder="0" scrolling="no"></iframe></div></span></p>
 <p><strong>Version podcast pour expert :</strong></p>
