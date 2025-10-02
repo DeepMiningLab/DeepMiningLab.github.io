@@ -3,7 +3,7 @@
     <title>DeepMining Lab</title>
     <link href="https://deepmining.ch/feed.xml" rel="self" />
     <link href="https://deepmining.ch" />
-    <updated>2025-10-02T15:21:18+02:00</updated>
+    <updated>2025-10-02T15:28:29+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://deepmining.ch/quelle-puissance-de-calcul-est-derriere-le-reseau-bitcoin-en-2025.html"/>
         <id>https://deepmining.ch/quelle-puissance-de-calcul-est-derriere-le-reseau-bitcoin-en-2025.html</id>
         <media:content url="https://deepmining.ch/media/posts/16/macaron6739_In_the_digital_deep_a_silent_army_hammers_infinity__56673e38-1aa6-4560-8736-daa4e0e9077e.png" medium="image" />
+            <category term="Articles"/>
 
         <updated>2025-10-02T14:13:33+02:00</updated>
             <summary>
@@ -64,6 +65,8 @@
         <link href="https://deepmining.ch/anayse-des-donnees-de-la-blockchain-les-verites-cachees-derriere-le-mythe-de-la-transparence.html"/>
         <id>https://deepmining.ch/anayse-des-donnees-de-la-blockchain-les-verites-cachees-derriere-le-mythe-de-la-transparence.html</id>
         <media:content url="https://deepmining.ch/media/posts/15/macaron6739_A_myth_of_light_is_born_a_ledger_open_as_sky_promis_d077d59f-6b08-46e4-97f2-51a20ec73eb3.png" medium="image" />
+            <category term="Sacha Toshi"/>
+            <category term="Articles"/>
 
         <updated>2025-09-18T10:21:37+02:00</updated>
             <summary>
