@@ -3,12 +3,54 @@
     <title>DeepMining Lab</title>
     <link href="https://deepmining.ch/feed.xml" rel="self" />
     <link href="https://deepmining.ch" />
-    <updated>2025-09-18T11:26:28+02:00</updated>
+    <updated>2025-10-02T14:13:33+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
     <id>https://deepmining.ch</id>
 
+    <entry>
+        <title>Quelle puissance de calcul est derrière le réseau Bitcoin en 2025 ?</title>
+        <author>
+            <name>Arnaud Gaudinat</name>
+        </author>
+        <link href="https://deepmining.ch/quelle-puissance-de-calcul-est-derriere-le-reseau-bitcoin-en-2025.html"/>
+        <id>https://deepmining.ch/quelle-puissance-de-calcul-est-derriere-le-reseau-bitcoin-en-2025.html</id>
+        <media:content url="https://deepmining.ch/media/posts/16/macaron6739_In_the_digital_deep_a_silent_army_hammers_infinit_e128ab86-1dae-4520-9ad4-e25c0ebb98f3_2.png" medium="image" />
+
+        <updated>2025-10-02T14:13:33+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://deepmining.ch/media/posts/16/macaron6739_In_the_digital_deep_a_silent_army_hammers_infinit_e128ab86-1dae-4520-9ad4-e25c0ebb98f3_2.png" alt="" />
+                    Cette puissance est mesurée en hashes par seconde (H/s), aussi appelée taux de hachage (hashrate). Un hash est une empreinte de taille fixe. Pour Bitcoin, on utilise SHA-256 : une&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://deepmining.ch/media/posts/16/macaron6739_In_the_digital_deep_a_silent_army_hammers_infinit_e128ab86-1dae-4520-9ad4-e25c0ebb98f3_2.png" class="type:primaryImage" alt="" /></p>
+                <p>Cette puissance est mesurée en <strong>hashes par seconde (H/s)</strong>, aussi appelée <strong>taux de hachage</strong> (<em>hashrate</em>).</p>
+<p>Un <strong>hash</strong> est une empreinte de taille fixe. Pour Bitcoin, on utilise <strong>SHA-256</strong> : une sortie de <strong>256 bits</strong>, soit <strong>32 octets</strong> ou <strong>64 caractères hexadécimaux</strong>, par exemple :</p>
+<pre><code>ef7797e13d3a75526946a3bcf00daec9a9d64f0a1f5ed8492f1a2c6b0f4a8f77
+</code></pre>
+<p>En décimal, la valeur maximale possible (2²⁵⁶ − 1) est :</p>
+<pre><code>115792089237316195423570985008687907853269984665640564039457584007913129639935
+</code></pre>
+<h4>Que font les mineurs ?</h4>
+<p>Les mineurs cherchent un <strong>hash de l’en-tête de bloc</strong> qui soit <strong>inférieur à une cible</strong> (qu’on visualise souvent comme “commençant par N zéros” en hexadécimal). L’algorithme est <strong>déterministe</strong> : la même entrée produit toujours la même sortie, mais on <strong>ne peut pas retrouver l’entrée à partir du hash</strong>.</p>
+<p>L’entrée regroupe les <strong>transactions</strong> à valider et d’autres champs, dont le <strong>nonce</strong> (valeur à trouver que l’on fait varier), par schéma simplifié :</p>
+<pre><code>Transactions + … + Nonce  --SHA-256--&gt;  Hash (avec N zéros en tête)
+</code></pre>
+<p>En pratique, les mineurs font varier le <strong>nonce</strong>, le <strong>timestamp</strong> et autres, afin de produire en continu de nouvelles entrées à tester.</p>
+<h4>10 minutes par bloc : le rôle de la difficulté</h4>
+<p>La <strong>difficulté de minage</strong> s’ajuste automatiquement pour que le réseau trouve <strong>en moyenne un bloc toutes les ~10 minutes</strong>. Plus le <strong>taux de hachage total</strong> du réseau est élevé, plus <strong>le réseau est sécurisé</strong>, et plus la difficulté monte pour conserver ce rythme.</p>
+<h4>Ordre de grandeur actuel</h4>
+<p>Aujourd’hui (octobre 2025), le <strong>hashrate</strong> du réseau Bitcoin s’exprime en <strong>téra-hashes par seconde (TH/s)</strong> et se situe autour de <strong>un peu plus d’un milliard de TH/s</strong> — soit <strong>≈ 1 ZH/s</strong> (zétta-hash/s), c’est-à-dire <strong>10²¹ H/s</strong>.</p>
+<p><br>Dit autrement la réponse à la question est :</p>
+<p>le réseau peut tester <strong>1 milliard de fois 1 000 milliards</strong> de hash par seconde, soit env. <strong>10²¹</strong> tentatives chaque seconde.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Analyse des données de la blockchain : Les vérités cachées derrière le mythe de la transparence</title>
         <author>
