@@ -3,7 +3,7 @@
     <title>DeepMining Lab</title>
     <link href="https://deepmining.ch/feed.xml" rel="self" />
     <link href="https://deepmining.ch" />
-    <updated>2025-10-02T15:12:00+02:00</updated>
+    <updated>2025-10-02T15:21:18+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -50,6 +50,8 @@
 <p>Aujourd’hui (octobre 2025), le <strong>hashrate</strong> du réseau Bitcoin s’exprime en <strong>téra-hashes par seconde (TH/s)</strong> et se situe autour de <strong>un peu plus d’un milliard de TH/s</strong> — soit <strong>≈ 1 ZH/s</strong> (zétta-hash/s), c’est-à-dire <strong>10²¹ H/s</strong>.</p>
 <p><br>Dit autrement la réponse à la question est :</p>
 <p>le réseau peut tester <strong>1 milliard de fois 1 000 milliards</strong> de hash par seconde, soit env. <strong>10²¹</strong> tentatives chaque seconde.</p>
+<p>source à jour de la valeur du taux de hash : <a href="https://www.blockchain.com/fr/explorer/charts/hash-rate">https://www.blockchain.com/fr/explorer/charts/hash-rate</a></p>
+<p> </p>
 <p> </p>
             ]]>
         </content>
