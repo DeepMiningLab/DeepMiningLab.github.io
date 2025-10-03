@@ -3,7 +3,7 @@
     <title>DeepMining Lab</title>
     <link href="https://deepmining.ch/feed.xml" rel="self" />
     <link href="https://deepmining.ch" />
-    <updated>2025-10-02T15:28:29+02:00</updated>
+    <updated>2025-10-03T10:45:48+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -46,13 +46,14 @@
 </code></pre>
 <p>En pratique, les mineurs font varier le <strong>nonce</strong>, le <strong>timestamp</strong> et autres, afin de produire en continu de nouvelles entrées à tester.</p>
 <h4>10 minutes par bloc : le rôle de la difficulté</h4>
-<p>La <strong>difficulté de minage</strong> s’ajuste automatiquement pour que le réseau trouve <strong>en moyenne un bloc toutes les ~10 minutes</strong>. Plus le <strong>taux de hachage total</strong> du réseau est élevé, plus <strong>le réseau est sécurisé</strong>, et plus la difficulté monte pour conserver ce rythme.</p>
+<p>La <strong>difficulté de minage</strong> s’ajuste automatiquement pour que le réseau trouve <strong>en moyenne un bloc toutes les ~10 minutes</strong>. Plus le <strong>taux de hachage total</strong> du réseau est élevé, plus <strong>le réseau est sécurisé¹</strong>, et plus la difficulté monte pour conserver ce rythme.</p>
 <h4>Ordre de grandeur actuel</h4>
 <p>Aujourd’hui (octobre 2025), le <strong>hashrate</strong> du réseau Bitcoin s’exprime en <strong>téra-hashes par seconde (TH/s)</strong> et se situe autour de <strong>un peu plus d’un milliard de TH/s</strong> — soit <strong>≈ 1 ZH/s</strong> (zétta-hash/s), c’est-à-dire <strong>10²¹ H/s</strong>.</p>
 <p><br>Dit autrement la réponse à la question est :</p>
 <p>le réseau peut tester <strong>1 milliard de fois 1 000 milliards</strong> de hash par seconde, soit env. <strong>10²¹</strong> tentatives chaque seconde.</p>
 <p>source à jour de la valeur du taux de hash : <a href="https://www.blockchain.com/fr/explorer/charts/hash-rate">https://www.blockchain.com/fr/explorer/charts/hash-rate</a></p>
-<p> </p>
+<p class="align-center">______________________________________</p>
+<p>1-  Comme l’a rappelé <a href="https://www.linkedin.com/in/arocrypto/">Emmanuel Harrault</a>, la sécurité ne repose pas seulement sur la puissance de calcul. Elle tient aussi à la décentralisation : plus il y a de mineurs indépendants et mieux la puissance (hashrate) est répartie, plus le réseau est robuste.</p>
 <p> </p>
             ]]>
         </content>
