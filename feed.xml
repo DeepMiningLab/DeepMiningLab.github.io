@@ -3,7 +3,7 @@
     <title>DeepMining Lab</title>
     <link href="https://deepmining.ch/feed.xml" rel="self" />
     <link href="https://deepmining.ch" />
-    <updated>2025-10-03T10:45:48+02:00</updated>
+    <updated>2025-10-03T10:47:03+02:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -53,7 +53,7 @@
 <p>le réseau peut tester <strong>1 milliard de fois 1 000 milliards</strong> de hash par seconde, soit env. <strong>10²¹</strong> tentatives chaque seconde.</p>
 <p>source à jour de la valeur du taux de hash : <a href="https://www.blockchain.com/fr/explorer/charts/hash-rate">https://www.blockchain.com/fr/explorer/charts/hash-rate</a></p>
 <p class="align-center">______________________________________</p>
-<p>1-  Comme l’a rappelé <a href="https://www.linkedin.com/in/arocrypto/">Emmanuel Harrault</a>, la sécurité ne repose pas seulement sur la puissance de calcul. Elle tient aussi à la décentralisation : plus il y a de mineurs indépendants et mieux la puissance (hashrate) est répartie, plus le réseau est robuste.</p>
+<p>1-  Comme l’a rappelé<a href="https://www.linkedin.com/posts/arocrypto_apprendrecestcomprendre-banque-bitcoin-activity-7375408594856484864-gEQi/"> Emmanuel Harrault</a>, la sécurité ne repose pas seulement sur la puissance de calcul. Elle tient aussi à la décentralisation : plus il y a de mineurs indépendants et mieux la puissance (hashrate) est répartie, plus le réseau est robuste.</p>
 <p> </p>
             ]]>
         </content>
