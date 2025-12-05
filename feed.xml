@@ -3,7 +3,7 @@
     <title>DeepMining Lab</title>
     <link href="https://deepmining.ch/feed.xml" rel="self" />
     <link href="https://deepmining.ch" />
-    <updated>2025-12-05T15:02:11+01:00</updated>
+    <updated>2025-12-05T15:17:35+01:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -19,7 +19,12 @@
         <media:content url="https://deepmining.ch/media/posts/18/macaron6739_A_futuristic_racetrack_in_a_digital_desert_glowing__8fc2e610-fa51-4f98-8680-31882222971f.png" medium="image" />
 
         <updated>2025-12-05T13:31:12+01:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://deepmining.ch/media/posts/18/macaron6739_A_futuristic_racetrack_in_a_digital_desert_glowing__8fc2e610-fa51-4f98-8680-31882222971f.png" alt="" />
+                    Introduction: In the fast-evolving world of decentralized finance (DeFi), visual tools can provide valuable insights into market structure, user behavior, and technological adoption. To better understand the growth and transformation&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://deepmining.ch/media/posts/18/macaron6739_A_futuristic_racetrack_in_a_digital_desert_glowing__8fc2e610-fa51-4f98-8680-31882222971f.png" class="type:primaryImage" alt="" /></p>
@@ -29,6 +34,28 @@
 <li>The data source is DeFiLlama: <a data-start="96" data-end="128" rel="noopener" target="_new" class="decorated-link" href="https://defillama.com/categories">https://defillama.com/categories</a></li>
 <li>The race chart was created using: <a data-start="165" data-end="189" rel="noopener" target="_new" class="decorated-link" href="https://flourish.studio/">https://flourish.studio/</a></li>
 </ul>
+<p data-start="354" data-end="806"><strong data-start="354" data-end="371">Introduction:</strong></p>
+<p data-start="354" data-end="806"><br data-start="371" data-end="374">In the fast-evolving world of decentralized finance (DeFi), visual tools can provide valuable insights into market structure, user behavior, and technological adoption. To better understand the growth and transformation of the DeFi ecosystem, we created a <strong data-start="630" data-end="658">race-chart visualization</strong> that tracks the rise and shifts of major DeFi categories over time — from the earliest liquidity movements to today’s complex financial primitives.</p>
+<p data-start="808" data-end="1157"><strong data-start="808" data-end="831">Data &amp; Methodology:</strong><br data-start="831" data-end="834">We used publicly available data from <a data-start="871" data-end="916" class="decorated-link" rel="noopener" target="_new" href="https://defillama.com/categories">DeFiLlama<svg width="20" height="20" viewbox="0 0 20 20" fill="currentColor" xmlns="http://www.w3.org/2000/svg" data-rtl-flip="" class="block h-[0.75em] w-[0.75em] stroke-current stroke-[0.75]"></svg></a></p>
+<p data-start="808" data-end="1157">, which aggregates Total Value Locked (TVL) data across protocols and categories. TVL — the total amount of crypto assets deposited in DeFi platforms — is widely used as a key indicator of both usage and user trust in a protocol or category.</p>
+<p data-start="1159" data-end="1519">The visualization was built using <a data-start="1193" data-end="1236" class="decorated-link" rel="noopener" target="_new" href="https://flourish.studio/">Flourish Studio<svg width="20" height="20" viewbox="0 0 20 20" fill="currentColor" xmlns="http://www.w3.org/2000/svg" data-rtl-flip="" class="block h-[0.75em] w-[0.75em] stroke-current stroke-[0.75]"></svg></a></p>
+<p data-start="1159" data-end="1519">, a platform for interactive storytelling through data. The race-chart format allows us to show how different categories — such as DEXs, lending platforms, yield aggregators, stablecoins, insurance protocols, and DAOs — have competed and evolved in terms of user liquidity over time.</p>
+<p data-start="1521" data-end="1831"><strong data-start="1521" data-end="1541">Why TVL Matters:</strong><br data-start="1541" data-end="1544">TVL is not a perfect metric, but it serves as a proxy for confidence and utility. Protocols and categories with higher TVL tend to demonstrate stronger product-market fit, network effects, and, often, user stickiness. By looking at TVL trends across categories, we can better understand:</p>
+<ul data-start="1833" data-end="2037">
+<li data-start="1833" data-end="1883">
+<p data-start="1835" data-end="1883">The emergence of dominant financial primitives</p>
+</li>
+<li data-start="1884" data-end="1920">
+<p data-start="1886" data-end="1920">Cyclical shifts in user behavior</p>
+</li>
+<li data-start="1921" data-end="1980">
+<p data-start="1923" data-end="1980">The diversity and specialization of DeFi infrastructure</p>
+</li>
+<li data-start="1981" data-end="2037">
+<p data-start="1983" data-end="2037">The relative maturity of different sectors within DeFi</p>
+</li>
+</ul>
+<p data-start="2353" data-end="2738"><strong data-start="2353" data-end="2368">Conclusion:</strong><br data-start="2368" data-end="2371">This visualization is not just a chart — it’s a dynamic snapshot of a financial system in motion. As researchers, we believe tools like this can help bridge quantitative data and qualitative understanding. DeFi is not only about protocols and code, but also about the flows of trust, risk, and coordination. Understanding its structure is key to assessing its future.</p>
 <p> </p>
             ]]>
         </content>
