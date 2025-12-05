@@ -3,7 +3,7 @@
     <title>DeepMining Lab</title>
     <link href="https://deepmining.ch/feed.xml" rel="self" />
     <link href="https://deepmining.ch" />
-    <updated>2025-12-05T14:59:00+01:00</updated>
+    <updated>2025-12-05T15:02:11+01:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
@@ -19,19 +19,16 @@
         <media:content url="https://deepmining.ch/media/posts/18/macaron6739_A_futuristic_racetrack_in_a_digital_desert_glowing__8fc2e610-fa51-4f98-8680-31882222971f.png" medium="image" />
 
         <updated>2025-12-05T13:31:12+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://deepmining.ch/media/posts/18/macaron6739_A_futuristic_racetrack_in_a_digital_desert_glowing__8fc2e610-fa51-4f98-8680-31882222971f.png" alt="" />
-                    Source of Data is from Defillama : https://defillama.com/categories The race-chart was build with : https://flourish.studio/
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://deepmining.ch/media/posts/18/macaron6739_A_futuristic_racetrack_in_a_digital_desert_glowing__8fc2e610-fa51-4f98-8680-31882222971f.png" class="type:primaryImage" alt="" /></p>
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/vylDM8ZM8nw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
 <p> </p>
-<p>Source of Data is from Defillama : <a href="https://defillama.com/categories">https://defillama.com/categories</a></p>
-<p>The race-chart was build with : <a href="https://flourish.studio/">https://flourish.studio/</a></p>
+<ul>
+<li>The data source is DeFiLlama: <a data-start="96" data-end="128" rel="noopener" target="_new" class="decorated-link" href="https://defillama.com/categories">https://defillama.com/categories</a></li>
+<li>The race chart was created using: <a data-start="165" data-end="189" rel="noopener" target="_new" class="decorated-link" href="https://flourish.studio/">https://flourish.studio/</a></li>
+</ul>
 <p> </p>
             ]]>
         </content>

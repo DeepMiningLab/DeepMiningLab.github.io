@@ -14,8 +14,7 @@
             "id": "https://deepmining.ch/ch-defi-tvl-race-which-categories-dominated-2017-2025.html",
             "url": "https://deepmining.ch/ch-defi-tvl-race-which-categories-dominated-2017-2025.html",
             "title": "DeFi TVL Race : Which Categories Dominated? (2017–2025) ",
-            "summary": "Source of Data is from Defillama : https://defillama.com/categories The race-chart was build with : https://flourish.studio/",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/vylDM8ZM8nw\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div>\n<p> </p>\n<p>Source of Data is from Defillama : <a href=\"https://defillama.com/categories\">https://defillama.com/categories</a></p>\n<p>The race-chart was build with : <a href=\"https://flourish.studio/\">https://flourish.studio/</a></p>\n<p> </p>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/vylDM8ZM8nw\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></div>\n<p> </p>\n<ul>\n<li>The data source is DeFiLlama: <a data-start=\"96\" data-end=\"128\" rel=\"noopener\" target=\"_new\" class=\"decorated-link\" href=\"https://defillama.com/categories\">https://defillama.com/categories</a></li>\n<li>The race chart was created using: <a data-start=\"165\" data-end=\"189\" rel=\"noopener\" target=\"_new\" class=\"decorated-link\" href=\"https://flourish.studio/\">https://flourish.studio/</a></li>\n</ul>\n<p> </p>",
             "image": "https://deepmining.ch/media/posts/18/macaron6739_A_futuristic_racetrack_in_a_digital_desert_glowing__8fc2e610-fa51-4f98-8680-31882222971f.png",
             "author": {
                 "name": "Arnaud Gaudinat"
@@ -23,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2025-12-05T13:31:12+01:00",
-            "date_modified": "2025-12-05T14:59:00+01:00"
+            "date_modified": "2025-12-05T15:02:11+01:00"
         },
         {
             "id": "https://deepmining.ch/innover-avec-la-science-comprendre-les-dispositifs-innosuisse-pour-pme-et-start-ups.html",
