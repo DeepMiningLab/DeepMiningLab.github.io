@@ -3,12 +3,28 @@
     <title>DeepMining Lab</title>
     <link href="https://deepmining.ch/feed.xml" rel="self" />
     <link href="https://deepmining.ch" />
-    <updated>2025-10-16T17:01:28+02:00</updated>
+    <updated>2025-12-05T13:56:53+01:00</updated>
     <author>
         <name>Arnaud Gaudinat</name>
     </author>
     <id>https://deepmining.ch</id>
 
+    <entry>
+        <title>CH DeFi TVL Race : Which Categories Dominated? (2017–2025) </title>
+        <author>
+            <name>Arnaud Gaudinat</name>
+        </author>
+        <link href="https://deepmining.ch/ch-defi-tvl-race-which-categories-dominated-2017-2025.html"/>
+        <id>https://deepmining.ch/ch-defi-tvl-race-which-categories-dominated-2017-2025.html</id>
+
+        <updated>2025-12-05T13:31:12+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/vylDM8ZM8nw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Innover avec la science : Comprendre les dispositifs Innosuisse pour PME et Start-ups</title>
         <author>
@@ -633,36 +649,6 @@
 <p>L'analyse de Vitalik Buterin, livrée avec une clarté désarmante, met en lumière le gouffre entre les aspirations théoriques de la décentralisation et les réalités techniques et sociales de sa mise en œuvre. Sa capacité à pointer du doigt les vulnérabilités structurelles masquées par des innovations superficielles est essentielle. Le véritable défi réside désormais dans la capacité de l'écosystème à s'auto-corriger, en intégrant ces "tests de propriété" comme des exigences non négociables. Le risque est que la force de l'inertie et les incitations financières continuent de privilégier la "brillante technologie" au détriment des "propriétés concrètes" de liberté et de sécurité pour l'utilisateur final.</p>
 <p> </p>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Présentation du Cas Blockchain &amp; Finance</title>
-        <author>
-            <name>Arnaud Gaudinat</name>
-        </author>
-        <link href="https://deepmining.ch/presentation-du-cas-blockchain-and-finance.html"/>
-        <id>https://deepmining.ch/presentation-du-cas-blockchain-and-finance.html</id>
-        <media:content url="https://deepmining.ch/media/posts/7/Fond3.png" medium="image" />
-            <category term="CAS Blockchain et Finance"/>
-            <category term="Articles"/>
-            <category term="Agent IA"/>
-
-        <updated>2025-07-04T09:34:19+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://deepmining.ch/media/posts/7/Fond3.png" alt="" />
-                    Deux journalistes propulsés par l’IA ont débattu à partir des documents de la séance de présentation du CAS « Blockchain &amp; Finance ». Cet épisode audio a été généré avec&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://deepmining.ch/media/posts/7/Fond3.png" class="type:primaryImage" alt="" /></p>
-                <p data-start="0" data-end="459">Deux journalistes propulsés par l’IA ont débattu à partir des documents de la séance de présentation du CAS « Blockchain &amp; Finance ». Cet épisode audio a été généré avec NotebookLM, un outil que nous vous recommandons vivement : il permet d’importer une grande variété de sources volumineuses tout en limitant le risque d’hallucination. Pour rappel, un CAS (Certificate of Advanced Studies) est un diplôme de formation continue reconnu en Suisse et en Europe.</p>
-<p data-start="0" data-end="459"> </p>
-<p data-start="461" data-end="548" data-is-last-node="" data-is-only-node="">Ce podcast offre un aperçu riche et qualitatif de cette formation — excellente écoute !</p>
-<p data-start="461" data-end="548" data-is-last-node="" data-is-only-node=""><div class="post__iframe"><iframe loading="lazy" width="400px" height="102px" src="https://creators.spotify.com/pod/show/arnaud25/embed/episodes/Prsentation-du-CAS-Blockchain-et-Finance-HEG-Genve--juin-2025-e353g04/a-ac1i75t" frameborder="0" scrolling="no"></iframe></div>
-<p>Lien vers le <a href="https://www.hesge.ch/heg/formations/formation-continue/formations-diplomantes/certificate-advanced-studies-cas/blockchain-finance#apercu-de-la-formation">CAS Blockchain et Finance</a> pour plus d'information !</p>
             ]]>
         </content>
     </entry>
